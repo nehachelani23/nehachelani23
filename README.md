@@ -14,6 +14,11 @@
 ### Glad to see you here!  
 A passionate Full-Stack developer from India  
   
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavanand&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>  
 
 <br/>  
 
@@ -30,6 +35,11 @@ A passionate Full-Stack developer from India
 
 - ⚡ Fun fact: I keep night shift swithed on at all times   
 
+</td><td valign="top" width="50%">
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0sSynWm4bg0GSbruANoe6HGrcVg2Z-wJtCa6wnfAo3ScjuaPk5nUA9ZNRZ3T9Ibir978&usqp=CAU" align="left" style="width: 100%" />
+
+</td></tr></table>  
 
 <br/>  
 
