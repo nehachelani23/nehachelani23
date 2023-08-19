@@ -31,15 +31,6 @@ A passionate Full-Stack developer from India
 - ⚡ Fun fact: I keep night shift swithed on at all times   
 
 
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0sSynWm4bg0GSbruANoe6HGrcVg2Z-wJtCa6wnfAo3ScjuaPk5nUA9ZNRZ3T9Ibir978&usqp=CAU" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
-
 <br/>  
 
 
